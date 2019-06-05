@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: aba6633251a66414dbd281c5735375e6
+timeCreated: 1518833393
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Closeness
+  fontNames:
+  - Closeness
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 96988535018d81b458c4daf4983e9841, type: 3}
+  - {fileID: 12800000, guid: 7b6d31d9f22d46442916a2a4923e6e5e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

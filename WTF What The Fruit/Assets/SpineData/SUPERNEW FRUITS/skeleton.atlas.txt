@@ -1,0 +1,325 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Apple
+  rotate: false
+  xy: 1735, 10
+  size: 192, 237
+  orig: 247, 285
+  offset: 25, 19
+  index: -1
+Baddies/HotDog
+  rotate: true
+  xy: 372, 67
+  size: 129, 344
+  orig: 135, 350
+  offset: 6, 3
+  index: -1
+Baddies/IceCream
+  rotate: false
+  xy: 1490, 1003
+  size: 113, 307
+  orig: 174, 320
+  offset: 26, 0
+  index: -1
+Baddies/Red Angry Eyes
+  rotate: true
+  xy: 344, 926
+  size: 700, 416
+  orig: 700, 416
+  offset: 0, 0
+  index: -1
+Banana
+  rotate: false
+  xy: 1882, 316
+  size: 156, 268
+  orig: 240, 291
+  offset: 63, 23
+  index: -1
+LeftEbrow
+  rotate: true
+  xy: 1799, 840
+  size: 577, 198
+  orig: 577, 198
+  offset: 0, 0
+  index: -1
+RightEbrow
+  rotate: true
+  xy: 1799, 840
+  size: 577, 198
+  orig: 577, 198
+  offset: 0, 0
+  index: -1
+Mango guy/FruitsKiDandi
+  rotate: false
+  xy: 770, 1553
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+Mango guy/MangoBase
+  rotate: false
+  xy: 1623, 257
+  size: 249, 324
+  orig: 249, 324
+  offset: 0, 0
+  index: -1
+Mango guy/leavesMango
+  rotate: false
+  xy: 10, 11
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 10, 786
+  size: 840, 324
+  orig: 1080, 1920
+  offset: 108, 708
+  index: -1
+Strawberry Guy/Armb
+  rotate: false
+  xy: 734, 78
+  size: 155, 838
+  orig: 155, 838
+  offset: 0, 0
+  index: -1
+Strawberry Guy/Armf
+  rotate: false
+  xy: 734, 78
+  size: 155, 838
+  orig: 155, 838
+  offset: 0, 0
+  index: -1
+Strawberry Guy/Shinb
+  rotate: false
+  xy: 1550, 1427
+  size: 422, 607
+  orig: 422, 607
+  offset: 0, 0
+  index: -1
+Strawberry Guy/Strawberry_spots
+  rotate: true
+  xy: 1937, 56
+  size: 250, 95
+  orig: 250, 95
+  offset: 0, 0
+  index: -1
+Strawberry Guy/Thighb
+  rotate: true
+  xy: 899, 62
+  size: 166, 826
+  orig: 166, 826
+  offset: 0, 0
+  index: -1
+Strawberry Guy/Thighf
+  rotate: false
+  xy: 1623, 591
+  size: 166, 826
+  orig: 166, 826
+  offset: 0, 0
+  index: -1
+Strawberry Guy/farearmf
+  rotate: false
+  xy: 10, 1636
+  size: 803, 398
+  orig: 803, 398
+  offset: 0, 0
+  index: -1
+Strawberry Guy/forearmb
+  rotate: false
+  xy: 10, 1636
+  size: 803, 398
+  orig: 803, 398
+  offset: 0, 0
+  index: -1
+blank
+  rotate: false
+  xy: 344, 915
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eyessBlue
+  rotate: true
+  xy: 10, 66
+  size: 710, 352
+  orig: 717, 352
+  offset: 0, 0
+  index: -1
+eyesss Mangoish
+  rotate: true
+  xy: 372, 206
+  size: 710, 352
+  orig: 717, 352
+  offset: 0, 0
+  index: -1
+eyesss Yellowish
+  rotate: false
+  xy: 823, 1682
+  size: 717, 352
+  orig: 717, 352
+  offset: 0, 0
+  index: -1
+eyesss greenish
+  rotate: false
+  xy: 823, 1320
+  size: 710, 352
+  orig: 717, 352
+  offset: 0, 0
+  index: -1
+eyesss pink
+  rotate: false
+  xy: 770, 958
+  size: 710, 352
+  orig: 717, 352
+  offset: 0, 0
+  index: -1
+eyesss purple
+  rotate: true
+  xy: 899, 238
+  size: 710, 352
+  orig: 717, 352
+  offset: 0, 0
+  index: -1
+eyesss reddish
+  rotate: true
+  xy: 1261, 238
+  size: 710, 352
+  orig: 717, 352
+  offset: 0, 0
+  index: -1
+pomegrenate
+  rotate: false
+  xy: 1799, 594
+  size: 198, 236
+  orig: 220, 270
+  offset: 21, 21
+  index: -1
+
+skeleton2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baddies/Burger
+  rotate: true
+  xy: 333, 10
+  size: 307, 147
+  orig: 307, 147
+  offset: 0, 0
+  index: -1
+Baddies/Cake
+  rotate: false
+  xy: 932, 674
+  size: 270, 260
+  orig: 296, 281
+  offset: 14, 9
+  index: -1
+Baddies/FrenchFries
+  rotate: false
+  xy: 490, 43
+  size: 168, 277
+  orig: 168, 282
+  offset: 0, 5
+  index: -1
+Baddies/Pizza
+  rotate: false
+  xy: 1490, 680
+  size: 270, 254
+  orig: 270, 254
+  offset: 0, 0
+  index: -1
+Baddies/donut
+  rotate: false
+  xy: 639, 658
+  size: 283, 276
+  orig: 360, 310
+  offset: 42, 14
+  index: -1
+Grapes
+  rotate: false
+  xy: 668, 145
+  size: 160, 243
+  orig: 256, 279
+  offset: 30, 32
+  index: -1
+Kiwi
+  rotate: false
+  xy: 1008, 466
+  size: 191, 198
+  orig: 207, 231
+  offset: 16, 20
+  index: -1
+Orange
+  rotate: false
+  xy: 442, 330
+  size: 208, 221
+  orig: 301, 291
+  offset: 47, 46
+  index: -1
+Papapapappaya
+  rotate: true
+  xy: 1770, 758
+  size: 176, 256
+  orig: 220, 270
+  offset: 28, 0
+  index: -1
+Pear
+  rotate: false
+  xy: 660, 398
+  size: 168, 250
+  orig: 235, 291
+  offset: 35, 20
+  index: -1
+Pineapple
+  rotate: false
+  xy: 442, 561
+  size: 187, 373
+  orig: 236, 422
+  offset: 16, 25
+  index: -1
+Strawberry Guy/Base
+  rotate: false
+  xy: 10, 42
+  size: 313, 275
+  orig: 313, 275
+  offset: 0, 0
+  index: -1
+Strawberry Guy/Shinf
+  rotate: false
+  xy: 10, 327
+  size: 422, 607
+  orig: 422, 607
+  offset: 0, 0
+  index: -1
+Strawberry Guy/handb
+  rotate: false
+  xy: 1212, 677
+  size: 268, 257
+  orig: 268, 257
+  offset: 0, 0
+  index: -1
+Strawberry Guy/handf
+  rotate: false
+  xy: 1212, 677
+  size: 268, 257
+  orig: 268, 257
+  offset: 0, 0
+  index: -1
+Strawberry Guy/leaves
+  rotate: false
+  xy: 838, 289
+  size: 115, 112
+  orig: 115, 112
+  offset: 0, 0
+  index: -1
+WaterMelon
+  rotate: false
+  xy: 838, 411
+  size: 160, 237
+  orig: 204, 285
+  offset: 14, 22
+  index: -1

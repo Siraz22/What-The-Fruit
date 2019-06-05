@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LoadingText
+  - End_Point
+  - Player_Pic
+  - InGameCanvasElements
+  - Score_Manager
+  - Platform_Manager
+  - Game_Manager
+  - Play_Panel
+  - Name_Button
+  - Bad_Food_Normal
+  - Good_Food_Normal
+  - Player_Spine
+  - Effect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - ForeGround
+  - UI worldSpace
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI WorldSpace
+    uniqueID: 3595859759
+    locked: 0
+  - name: Spines
+    uniqueID: 3917587875
+    locked: 0

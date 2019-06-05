@@ -1,0 +1,454 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "upperjaw", "parent": "root", "length": 164.1, "x": 12.5, "y": 92.14, "rotation": 88.19 },
+	{ "name": "Hair", "parent": "upperjaw", "length": 196.06, "x": 296.41, "y": 86.41, "rotation": -90 },
+	{
+		"name": "lowerjaw",
+		"parent": "upperjaw",
+		"length": 110.82,
+		"x": 71.02,
+		"y": -49.62,
+		"scaleX": 0.92,
+		"scaleY": 0.915,
+		"rotation": -134.82
+	}
+],
+"slots": [
+	{ "name": "lower_jaw", "bone": "lowerjaw", "attachment": "lower jaw" },
+	{ "name": "Head", "bone": "upperjaw", "attachment": "upper jaw" },
+	{ "name": "Hairstyle or mask", "bone": "Hair", "attachment": "Hairstyle or mask" },
+	{ "name": "king crown only", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Head": {
+			"HeadBase": { "x": 130.04, "y": -19.89, "rotation": -88.19, "width": 353, "height": 436 },
+			"HeadWithOpenMouth": { "x": 126.05, "y": -20.02, "rotation": -88.19, "width": 352, "height": 446 },
+			"upper jaw": { "x": 126.05, "y": -20.02, "rotation": -88.19, "width": 353, "height": 427 }
+		},
+		"lower_jaw": {
+			"lower jaw": { "x": 56.12, "y": -0.09, "rotation": 44.21, "width": 163, "height": 135 }
+		}
+	},
+	"crown": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "king crown only",
+				"x": 87.24,
+				"y": 70.52,
+				"scaleX": 0.514,
+				"scaleY": 0.514,
+				"rotation": 365,
+				"width": 882,
+				"height": 703
+			}
+		}
+	},
+	"dbz_saiyan": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": { "name": "DBZ_Saiyan", "x": 53.6, "y": 53.19, "scaleX": 2.089, "scaleY": 2.089, "rotation": 1.8, "width": 410, "height": 281 }
+		}
+	},
+	"dbz_supersaiyan": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "DBZ_SuperSaiyan",
+				"x": 38.94,
+				"y": 110.61,
+				"scaleX": 1.419,
+				"scaleY": 1.419,
+				"rotation": 1.8,
+				"width": 450,
+				"height": 428
+			}
+		}
+	},
+	"dbz_ultrainstinct": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "DBZ_Ultra instinct",
+				"x": 38.45,
+				"y": 110.34,
+				"scaleX": 1.42,
+				"scaleY": 1.42,
+				"rotation": 1.8,
+				"width": 450,
+				"height": 428
+			}
+		}
+	},
+	"harry_potter": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": { "name": "Harry Potter", "x": 85.36, "y": -83.48, "scaleX": 0.896, "scaleY": 0.896, "rotation": 1.8, "width": 440, "height": 375 }
+		}
+	},
+	"jack_sparrow": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Jack Sparrow",
+				"x": 99.95,
+				"y": -151.09,
+				"scaleX": 1.305,
+				"scaleY": 1.305,
+				"rotation": 1.8,
+				"width": 440,
+				"height": 508
+			}
+		}
+	},
+	"johnny_bravo": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": { "name": "Johnny Bravo", "x": 153.51, "y": 23.03, "scaleX": 1.229, "scaleY": 1.229, "rotation": 1.8, "width": 440, "height": 402 }
+		}
+	},
+	"naruto_hinata": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Naruto_Hinata",
+				"x": 16.95,
+				"y": -103.19,
+				"scaleX": 1.221,
+				"scaleY": 1.221,
+				"rotation": 1.8,
+				"width": 445,
+				"height": 360
+			}
+		}
+	},
+	"naruto_naruto": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Naruto_Naruto",
+				"x": 60.18,
+				"y": -194.36,
+				"scaleX": 1.127,
+				"scaleY": 1.127,
+				"rotation": 0.38,
+				"width": 445,
+				"height": 694
+			}
+		}
+	},
+	"naruto_sasuke": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Naruto_Sasuke",
+				"x": 55.68,
+				"y": -12.08,
+				"scaleX": 1.286,
+				"scaleY": 1.286,
+				"rotation": 15.03,
+				"width": 445,
+				"height": 360
+			}
+		}
+	},
+	"normal_afro": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": { "name": "Hairstyle3_Afro", "x": 101.01, "y": -62.87, "rotation": 1.8, "width": 472, "height": 399 }
+		}
+	},
+	"normal_katora": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Hairstyle2_Katora",
+				"x": 107.6,
+				"y": -81.67,
+				"scaleX": 0.957,
+				"scaleY": 0.93,
+				"rotation": 1.8,
+				"width": 389,
+				"height": 299
+			}
+		}
+	},
+	"normal_messy": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Hairstyle8_Messy",
+				"x": 120.53,
+				"y": -79.27,
+				"scaleX": 0.804,
+				"scaleY": 0.804,
+				"rotation": 1.8,
+				"width": 515,
+				"height": 384
+			}
+		}
+	},
+	"normal_nishu": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": { "name": "Hairstyle6_Nishu", "x": 92.6, "y": -81.79, "rotation": 1.8, "width": 370, "height": 277 }
+		}
+	},
+	"normal_normal": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": { "name": "HairStyle1Normal", "x": 95.64, "y": -83.05, "rotation": 1.8, "width": 349, "height": 308 }
+		}
+	},
+	"normal_old": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Hairstyle5_Old",
+				"x": 56.44,
+				"y": -97.36,
+				"scaleX": 1.11,
+				"scaleY": 0.98,
+				"rotation": 4.15,
+				"width": 251,
+				"height": 250
+			}
+		}
+	},
+	"normal_paul": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": { "name": "Hairstyle7_PAUL", "x": 110.26, "y": -70.58, "rotation": 1.8, "width": 378, "height": 358 }
+		}
+	},
+	"normal_spikes": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": { "name": "hairstyle4_Spikes", "x": 108.86, "y": -58.03, "rotation": 4.81, "width": 434, "height": 345 }
+		}
+	},
+	"normal_tomahawk": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Hairstyle9_Tomahawk",
+				"x": 79.58,
+				"y": -17.52,
+				"scaleX": 1.103,
+				"scaleY": 1.103,
+				"rotation": 1.8,
+				"width": 471,
+				"height": 342
+			}
+		}
+	},
+	"santa_claus": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": { "name": "Santa claus", "x": 15.57, "y": -3.99, "scaleX": 1.292, "scaleY": 1.292, "rotation": 1.8, "width": 400, "height": 229 }
+		}
+	},
+	"superhero_batman": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Superhero_Batman",
+				"x": 133.62,
+				"y": -104.03,
+				"scaleX": 1.004,
+				"scaleY": 1.004,
+				"rotation": 1.8,
+				"width": 445,
+				"height": 557
+			}
+		}
+	},
+	"superhero_captainamerica": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "Superhero_CaptainAmerica",
+				"x": 97.45,
+				"y": -166.84,
+				"scaleX": 0.779,
+				"scaleY": 0.779,
+				"rotation": 1.8,
+				"width": 445,
+				"height": 576
+			}
+		}
+	},
+	"superhero_wolverine": {
+		"Hairstyle or mask": {
+			"Hairstyle or mask": {
+				"name": "SuperHero_Wolverine",
+				"x": 39.02,
+				"y": -125.63,
+				"scaleX": 1.149,
+				"scaleY": 1.149,
+				"rotation": 1.8,
+				"width": 445,
+				"height": 464
+			}
+		}
+	}
+},
+"animations": {
+	"Biting": {
+		"bones": {
+			"lowerjaw": {
+				"rotate": [
+					{ "time": 0, "angle": 366.62 },
+					{ "time": 0.1666, "angle": 354.82 },
+					{ "time": 0.3333, "angle": 366.62 }
+				],
+				"translate": [
+					{ "time": 0, "x": 10.37, "y": -2.2 },
+					{ "time": 0.1666, "x": -84.65, "y": -3 },
+					{ "time": 0.3333, "x": 10.37, "y": -2.2 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			},
+			"upperjaw": {
+				"rotate": [
+					{ "time": 0, "angle": -1.19 },
+					{ "time": 0.1666, "angle": 1.8 },
+					{ "time": 0.3333, "angle": -3.19 },
+					{ "time": 0.5, "angle": -1.19 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			},
+			"Hair": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"Chewing": {
+		"bones": {
+			"upperjaw": {
+				"rotate": [
+					{ "time": 0, "angle": -1.19 },
+					{ "time": 0.3333, "angle": 0 },
+					{ "time": 0.6666, "angle": -1.19 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6666, "x": 1, "y": 1 }
+				]
+			},
+			"lowerjaw": {
+				"rotate": [
+					{ "time": 0, "angle": 366.62 },
+					{ "time": 0.3333, "angle": 353.62 },
+					{ "time": 0.6666, "angle": 366.62 }
+				],
+				"translate": [
+					{ "time": 0, "x": 10.37, "y": -2.2 },
+					{ "time": 0.3333, "x": 10.22, "y": -5.2 },
+					{ "time": 0.6666, "x": 10.37, "y": -2.2 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6666, "x": 1, "y": 1 }
+				]
+			},
+			"Hair": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"bigbite": {
+		"bones": {
+			"lowerjaw": {
+				"rotate": [
+					{ "time": 0, "angle": 366.62 },
+					{ "time": 0.1666, "angle": 354.82 },
+					{ "time": 0.3333, "angle": 2.26 },
+					{ "time": 0.5, "angle": 0.06 },
+					{ "time": 0.6666, "angle": 366.62 }
+				],
+				"translate": [
+					{ "time": 0, "x": 10.37, "y": -2.2 },
+					{ "time": 0.1666, "x": -84.65, "y": -3 },
+					{ "time": 0.3333, "x": -92.87, "y": -2.45 },
+					{ "time": 0.5, "x": 17.78, "y": -5.43 },
+					{ "time": 0.6666, "x": 10.37, "y": -2.2 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.098, "y": 1.097 },
+					{ "time": 0.5, "x": 1, "y": 1.004 },
+					{ "time": 0.6666, "x": 1, "y": 1 }
+				]
+			},
+			"upperjaw": {
+				"rotate": [
+					{ "time": 0, "angle": -1.19 },
+					{ "time": 0.1666, "angle": 6.8 },
+					{ "time": 0.3333, "angle": 16.8 },
+					{ "time": 0.5, "angle": -28.19 },
+					{ "time": 0.6666, "angle": -1.19 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1666, "x": -12.5, "y": 0 },
+					{ "time": 0.3333, "x": 27.5, "y": 0 },
+					{ "time": 0.5, "x": 57.5, "y": 0 },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.099, "y": 1.099 },
+					{ "time": 0.6666, "x": 1, "y": 1 }
+				]
+			},
+			"Hair": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

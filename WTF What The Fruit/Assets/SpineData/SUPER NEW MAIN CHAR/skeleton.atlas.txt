@@ -1,0 +1,199 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DBZ_Saiyan
+  rotate: true
+  xy: 1756, 1627
+  size: 410, 281
+  orig: 410, 281
+  offset: 0, 0
+  index: -1
+DBZ_SuperSaiyan
+  rotate: false
+  xy: 874, 431
+  size: 450, 428
+  orig: 450, 428
+  offset: 0, 0
+  index: -1
+DBZ_Ultra instinct
+  rotate: false
+  xy: 1332, 905
+  size: 450, 428
+  orig: 450, 428
+  offset: 0, 0
+  index: -1
+HairStyle1Normal
+  rotate: true
+  xy: 1720, 21
+  size: 349, 308
+  orig: 349, 308
+  offset: 0, 0
+  index: -1
+Hairstyle2_Katora
+  rotate: true
+  xy: 1728, 506
+  size: 389, 299
+  orig: 389, 299
+  offset: 0, 0
+  index: -1
+Hairstyle3_Afro
+  rotate: true
+  xy: 465, 454
+  size: 472, 399
+  orig: 472, 399
+  offset: 0, 0
+  index: -1
+Hairstyle5_Old
+  rotate: false
+  xy: 10, 22
+  size: 251, 250
+  orig: 251, 250
+  offset: 0, 0
+  index: -1
+Hairstyle8_Messy
+  rotate: true
+  xy: 1334, 380
+  size: 515, 384
+  orig: 515, 384
+  offset: 0, 0
+  index: -1
+Harry Potter
+  rotate: false
+  xy: 815, 46
+  size: 440, 375
+  orig: 440, 375
+  offset: 0, 0
+  index: -1
+Jack Sparrow
+  rotate: false
+  xy: 10, 282
+  size: 440, 508
+  orig: 440, 508
+  offset: 0, 0
+  index: -1
+Johnny Bravo
+  rotate: true
+  xy: 465, 936
+  size: 440, 402
+  orig: 440, 402
+  offset: 0, 0
+  index: -1
+Naruto_Hinata
+  rotate: false
+  xy: 1265, 10
+  size: 445, 360
+  orig: 445, 360
+  offset: 0, 0
+  index: -1
+Naruto_Naruto
+  rotate: false
+  xy: 902, 1343
+  size: 445, 694
+  orig: 445, 694
+  offset: 0, 0
+  index: -1
+Santa claus
+  rotate: true
+  xy: 1792, 1217
+  size: 400, 229
+  orig: 400, 229
+  offset: 0, 0
+  index: -1
+SuperHero_Wolverine
+  rotate: false
+  xy: 877, 869
+  size: 445, 464
+  orig: 445, 464
+  offset: 0, 0
+  index: -1
+Superhero_Batman
+  rotate: false
+  xy: 1357, 1480
+  size: 389, 557
+  orig: 445, 557
+  offset: 0, 0
+  index: -1
+Superhero_CaptainAmerica
+  rotate: false
+  xy: 10, 800
+  size: 445, 576
+  orig: 445, 576
+  offset: 0, 0
+  index: -1
+hairstyle4_Spikes
+  rotate: true
+  xy: 460, 10
+  size: 434, 345
+  orig: 434, 345
+  offset: 0, 0
+  index: -1
+king crown only
+  rotate: false
+  xy: 10, 1386
+  size: 882, 651
+  orig: 882, 703
+  offset: 0, 52
+  index: -1
+lower jaw
+  rotate: true
+  xy: 271, 109
+  size: 163, 135
+  orig: 163, 135
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hairstyle6_Nishu
+  rotate: false
+  xy: 928, 1734
+  size: 370, 277
+  orig: 370, 277
+  offset: 0, 0
+  index: -1
+Hairstyle7_PAUL
+  rotate: true
+  xy: 10, 10
+  size: 377, 358
+  orig: 378, 358
+  offset: 1, 0
+  index: -1
+Hairstyle9_Tomahawk
+  rotate: false
+  xy: 10, 1669
+  size: 471, 342
+  orig: 471, 342
+  offset: 0, 0
+  index: -1
+HeadBase
+  rotate: false
+  xy: 10, 397
+  size: 353, 436
+  orig: 353, 436
+  offset: 0, 0
+  index: -1
+HeadWithOpenMouth
+  rotate: false
+  xy: 10, 843
+  size: 352, 446
+  orig: 352, 446
+  offset: 0, 0
+  index: -1
+Naruto_Sasuke
+  rotate: false
+  xy: 10, 1299
+  size: 445, 360
+  orig: 445, 360
+  offset: 0, 0
+  index: -1
+upper jaw
+  rotate: true
+  xy: 491, 1658
+  size: 353, 427
+  orig: 353, 427
+  offset: 0, 0
+  index: -1
